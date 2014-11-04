@@ -1,7 +1,7 @@
 ActionItems
 ===========
 
-This respository contains the list of actions items to be managed during the course of the project.
+This repository contains the list of actions items to be managed during the course of the project.
 
 1) Action Items should be entered as they are identified during meetings, from minutes, discussions etc.  with Status "s-New".  
 2) As they are reviewed by the Action Item Repository Maintainer/Owner the status can be updated to "s-Open".  
