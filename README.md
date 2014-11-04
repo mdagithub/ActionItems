@@ -9,4 +9,7 @@ This respository contains the list of actions items to be managed during the cou
 4) When an action item is considered completed, a comment on the resolution should be added and the status updated to "s-Completed".  
 6) When the Action Item Repository Maintainer/Owner has confirmed with the applicable stakeholders about the completed action items, the Action Item can be 'Closed'.  
 7) Some Action Items may not be relevant/applicable or perhaps a duplicate; so they should be statused as "s-Withdrawn/NA", or "s-Duplicate" and then eventually closed as per step 6).  
+  
+Action Items can also be assigned with a Category ("c-<category>"),  firm ("f-<firm>") or perhaps flagged has having an outstanding question ("q-Question") or impediment ("q-Impediment").  
+
 
